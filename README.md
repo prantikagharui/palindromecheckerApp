@@ -11,3 +11,6 @@ UC5-StackBasedPalindromeChecker
 
 UC6-QueueStackBasedPalindromeCheck
 
+UC7-DequeBasedOptimizedPalindromeChecker
+
+
