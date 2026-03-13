@@ -2,3 +2,7 @@
 UC1 - Application Entry & Welcome Message
 
 UC2: Print a Hardcoded Palindrome Result
+
+UC3-PalindromeCheckUsingStringReverse
+
+UC4-CharacterArrayBasedPalindromeCheck
