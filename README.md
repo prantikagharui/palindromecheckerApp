@@ -8,3 +8,6 @@ UC3-PalindromeCheckUsingStringReverse
 UC4-CharacterArrayBasedPalindromeCheck
 
 UC5-StackBasedPalindromeChecker
+
+UC6-QueueStackBasedPalindromeCheck
+
